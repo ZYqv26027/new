@@ -1,0 +1,37 @@
+帐号 ZYqv26027  340319494@qq.com
+
+
+c:\windows\system32\drivers\etc\hosts        (花屏修改)
+151.101.184.133   assets-cdn.github.com
+
+配置用户名：git config --global user.name
+配置邮箱：git config --global user.email
+
+cd
+git init
+ls -a
+touch
+
+git add .  git add --all
+git commit -m ""
+git commit --message ""
+
+git status
+
+
+git log --pretty=oneline
+git log -n 3
+git log --format
+git log --oneline
+git log --stat
+git log --shortstat
+git log --shortstat --oneline
+git log --graph --oneline
+
+git reflog
+
+git checkout -- 123.txt (未add前进行撤销)
+
+git clone
+
+
